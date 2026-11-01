@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkfix.netlify.app/sitemap.xml
